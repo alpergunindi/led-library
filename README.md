@@ -3,17 +3,16 @@
 This STM32 program demonstrates how to control three individual LEDs using the led_handler library, which consists of two files (led_handler.h and led_handler.c). The program initializes three LEDs with different GPIO pins and on/off time intervals and continuously updates their status in the main loop.
 
 ## Table of Contents
--Setup
--Usage
--Functionality
--Libraries
--Notes
--Setup
+- Setup
+- Usage
+- Functionality
+- Libraries
+- Notes
+- Setup
 
 ## Hardware Connections
-| First  | Second |
-| ------------- | ------------- |
-|Connect the three LEDs to the respective GPIO pins (PA10, PA11, and PA12, or other pins as specified in your code).  | Connect the other terminal of each LED to the common ground. |
+1.  Connect the three LEDs to the respective GPIO pins (PA10, PA11, and PA12, or other pins as specified in your code).
+2.  Connect the other terminal of each LED to the common ground.
 
 
 ## Software Requirements
