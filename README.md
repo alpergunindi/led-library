@@ -1,4 +1,5 @@
 ###LED Control Program for STM32 IDE###
+
 This STM32 program demonstrates how to control three individual LEDs using the led_handler library, which consists of two files (led_handler.h and led_handler.c). The program initializes three LEDs with different GPIO pins and on/off time intervals and continuously updates their status in the main loop.
 
 #Table of Contents#
