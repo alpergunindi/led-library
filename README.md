@@ -11,8 +11,10 @@ This STM32 program demonstrates how to control three individual LEDs using the l
 -Setup
 
 ## Hardware Connections
-Connect the three LEDs to the respective GPIO pins (PA10, PA11, and PA12, or other pins as specified in your code).
-Connect the other terminal of each LED to the common ground.
+| First Header  | Second Header |
+| ------------- | ------------- |
+|Connect the three LEDs to the respective GPIO pins (PA10, PA11, and PA12, or other pins as specified in your code).  | Connect the other terminal of each LED to the common ground. |
+
 
 ## Software Requirements
 This program is designed to run on an STM32 microcontroller.
